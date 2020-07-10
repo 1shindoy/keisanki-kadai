@@ -2,5 +2,5 @@
 
 # 1から100まで出力するコード
 
-for i in range(101)
+for i in range(1, 101):
     print(i)
